@@ -1,0 +1,4 @@
+
+
+compile "nom fichier"
+        ex : compile Aquarium
